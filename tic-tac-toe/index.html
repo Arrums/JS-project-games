@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="tictac.css" />
+		<!-- Font Awesome Icon -->
+		<script
+			src="https://kit.fontawesome.com/17b34842ce.js"
+			crossorigin="anonymous"
+		></script>
+		<title>Tic Tac Toe Game</title>
+	</head>
+	<body>
+		<!-- Select player section -->
+		<div class="select-box">
+			<header>Tic Tac Toe</header>
+			<div class="content">
+				<section class="content__title">Select player:</section>
+				<section class="content__options">
+					<button id="xBtn" class="content__options--player-x">
+						Player (X)
+					</button>
+					<button id="oBtn" class="content__options--player-o">
+						Player (O)
+					</button>
+				</section>
+			</div>
+		</div>
+
+		<!-- Board section -->
+		<div class="board">
+			<section class="board__details">
+				<section id="players" class="board__details__players">
+					<span class="x-turn">X's Turn</span>
+					<span class="o-turn">O's Turn</span>
+					<div class="slider"></div>
+				</section>
+			</section>
+			<section class="board__play">
+				<section class="board__play__tile">
+					<span class="box1"></span>
+					<span class="box2"></span>
+					<span class="box3"></span>
+				</section>
+				<section class="board__play__tile">
+					<span class="box4"></span>
+					<span class="box5"></span>
+					<span class="box6"></span>
+				</section>
+				<section class="board__play__tile">
+					<span class="box7"></span>
+					<span class="box8"></span>
+					<span class="box9"></span>
+				</section>
+			</section>
+		</div>
+
+		<!-- Result area -->
+		<div class="result-box">
+			<section class="result-box__won-text"></section>
+			<div class="result-box__won-text__btn">
+				<button>Replay</button>
+			</div>
+		</div>
+
+		<script src="index.js"></script>
+	</body>
+</html>
