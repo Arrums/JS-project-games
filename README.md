@@ -1,6 +1,6 @@
 # JS Project: Collection of Simple Games
 
-Create simple games on website using vanilla Javascript. When I was young, I
+Create simple web browser games using vanilla Javascript. When I was young, I
 really enjoy playing by these games on my computer or phone and I always want to
 build this myself but never really gotten around to do it. Now I decided that it
 is time to build this while learning more about Javascript.
@@ -9,8 +9,9 @@ This is an ongoing project as I intend to create more games.
 
 ## Screenshots
 
-![memory-game](https://user-images.githubusercontent.com/100544967/166140627-f4a475d9-e923-4629-9bb4-68c1930f5cce.PNG)
-![tic-tac-toe](https://user-images.githubusercontent.com/100544967/169285574-c93c3f23-2227-4b50-a94a-0c8d3a58d30b.PNG)
+![memory-game](https://user-images.githubusercontent.com/100544967/169456861-7bcce5b0-461b-4cd5-92af-25cfb88a0446.PNG)
+![tic-tac-toe](https://user-images.githubusercontent.com/100544967/169456877-834766bf-9c59-42e9-9471-994c234f6808.PNG)
+![tic-tac-toe-board](https://user-images.githubusercontent.com/100544967/169456890-17f49835-0482-4d56-8947-e4762c4e06c6.PNG)
 
 ## Goals
 
